@@ -44,5 +44,5 @@ python manage.py runserver
 ```
 
 ## Author
-Ayomide — Python/Django Backend Developer
+James — Python/Django Backend Developer
 ALX Africa Certified
